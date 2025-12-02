@@ -1,6 +1,6 @@
 - 👋 Hi! I'm Nicole, a sophmore studying EECS and BioE at UC Berkeley, and an aspiring software engineer.
 - 🔭 I'm interested in the intersection between technology and social impact!
-- 💌 [Linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole.lee@berkeley.edu
+- 💌 [Portfolio] https://nicole-hy-lee.vercel.app/ | [Linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole.lee@berkeley.edu
 
 <!--
 **nicoleleehy1/nicoleleehy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
