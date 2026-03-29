@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Nicole, a sophmore studying EECS and BioE at UC Berkeley, and an aspiring software engineer.
+- 👋 Hi! I'm Nicole, a sophmore studying Electrical Engineering and Computer Science + Bioengineering at UC Berkeley, and an aspiring software engineer.
 - 🔭 I'm interested in the intersection between technology and social impact!
 - 💌 [Portfolio](https://nicole-hy-lee.vercel.app/) | [Linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole.lee@berkeley.edu
 
