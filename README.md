@@ -1,4 +1,5 @@
-- 👋 Hi! I'm Nicole, currently studying Electrical Engineering and Computer Science + Bioengineering at UC Berkeley, and an aspiring software engineer.
+- 👋 Hi! I'm Nicole, currently studying Electrical Engineering and Computer Science + Bioengineering at UC Berkeley.
+- Currently: SWE @ Apple 
 - 💌 [Portfolio](https://nicole-hy-lee.vercel.app/) | [Linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole.lee@berkeley.edu
 
 <!--
