@@ -1,6 +1,6 @@
 - 👋 hi! i'm nicole, currently studying electrical engineering and computer science + bioengineering at uc berkeley.
 - prev: swe @ apple 
-- 💌 [Portfolio](https://nicole-hy-lee.vercel.app/) | [Linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole.lee@berkeley.edu
+- 💌 check out my: [portfolio](https://nicole-hy-lee.vercel.app/) | [linkedin](https://www.linkedin.com/in/nicolehylee/) | nicole[dot]lee[at]berkeley.edu
 
 <!--
 **nicoleleehy1/nicoleleehy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
