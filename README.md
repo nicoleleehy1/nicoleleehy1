@@ -6,9 +6,7 @@
 ### recent projects!
 
 **aster**
-
 `Python` `TypeScript` `FastAPI` `PyTorch` `RDKit` `LangGraph`
-
 built an ai decision engine that predicts which compounds drug-discovery labs should test next, combining a five-model d-mpnn ensemble with boltz-2 3d protein–ligand structure prediction and binding-affinity scoring
 
 **pokerlab**
