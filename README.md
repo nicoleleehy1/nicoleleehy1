@@ -14,8 +14,8 @@ built an ai decision engine that predicts which compounds drug-discovery labs sh
 built a native ios game-theory-optimal poker tutor powered by a custom swift solver engine (hand evaluator, monte carlo equity engine, cfr/dcfr solvers and metal gpu kernels) that computes nash equilibria on device in real time
 
 **after you (baymax's cafe)**\
-`TypeScript` `React Three Fiber` `Three.js` `Web Workers` `Vitest`\
-built a socially-aware robot navigation simulator that replans paths around predicted human movement and conversations via active preference learning
+`TypeScript` `Python` `React Three Fiber` `Three.js` `Web Workers` `Vitest`\
+built a socially-aware robot navigation simulator that replans paths around predicted human movement and conversations via active preference learning + bradley-terry reward model
 
 **codemri**\
 `Python` `TypeScript` `Tree-sitter` `FastAPI`\
