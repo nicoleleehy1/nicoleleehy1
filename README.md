@@ -15,7 +15,7 @@ built a native ios game-theory-optimal poker tutor powered by a custom swift sol
 
 **after you (baymax's cafe)**\
 `TypeScript` `React Three Fiber` `Three.js` `Web Workers` `Vitest`\
-built a socially-aware robot navigation simulator that replans paths in real time around predicted human movement and learns user preferences through active preference learning, so the robot never cuts through people's conversations
+built a socially-aware robot navigation simulator that replans paths around predicted human movement and conversations via active preference learning
 
 **codemri**\
 `Python` `TypeScript` `Tree-sitter` `FastAPI`\
